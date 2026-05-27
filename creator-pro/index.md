@@ -1,0 +1,26 @@
+---
+layout: default
+title: Creator Pro Privacy Policy
+app_name: Creator Pro
+app_icon: ./app-icon.png
+favicon: ./favicon.png
+updated: 4/26/2025
+---
+
+Thank you for using Creator Pro (the "App"). Creator Pro is owned and operated by Stimulating AI Inc. ("we," "us," or "our"). We respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you download, install, access, or use Creator Pro, and our practices for collecting, using, maintaining, protecting, and disclosing that information. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not download, install, access, or use Creator Pro. By downloading, installing, accessing, or using Creator Pro, you agree to this policy. This policy may change from time to time. Your continued use of Creator Pro after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+## Information We Collect and How We Collect It
+
+We collect several types of non-personally identifying information from and about users of Creator Pro, including information about your device, internet connection, and usage details. We collect this information automatically as you navigate through Creator Pro. This information is collected through the use of cookies, web beacons, and other tracking technologies.
+
+If you choose to provide it, we may also collect personal information such as your name, email address, or other contact details. We may use this information to contact you about Creator Pro, including updates, support, or relevant services. We may also use your personal information to send you marketing communications about our products and services, but only we (Stimulating AI Inc.) will send such marketing - we will not provide your information to third parties for their marketing purposes. We use the collected information to operate and improve Creator Pro, and to provide the services and features offered through Creator Pro. We may also use the information to understand and analyze the usage trends and preferences of our users, to personalize your experience, and to improve Creator Pro.
+
+## Disclosure of Collected Information
+
+We do not sell or give away your personal information to third parties. We may disclose the collected information to our affiliates, partners, and service providers who perform services on our behalf and assist us in operating Creator Pro. These parties are required to maintain the confidentiality of the information and are prohibited from using the information for any purpose other than as specified by us. We may also disclose the collected information in response to a legal request, such as a subpoena, court order, or government request, or when we believe in good faith that disclosure is necessary to protect our rights or the rights of others, to prevent harm to any person or entity, or to prevent illegal activities.
+
+## Managing Your Information
+
+We may retain collected information for as long as necessary, allowed by law, or as we deem useful. We may also dispose of information at our discretion without notice, except as required by applicable laws that mandate the proper handling or retention of the information. It is your responsibility to create your own backups of any data you provide. Please be aware that some or all of the data you provide may be necessary for the proper functioning of Creator Pro, or may be retained in backup storage. We take steps to protect the confidentiality of collected information, including implementing physical, electronic, and procedural safeguards. However, no security system is completely secure, and we cannot guarantee the absolute security of your information.
+
+You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation or any processing that may be required to protect against illegal activities. Please contact us via the contact page inside the app.

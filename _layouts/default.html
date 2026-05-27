@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }}</title>
+    {% if page.favicon %}
+      <link rel="icon" href="{{ page.favicon }}" type="image/png" />
+    {% endif %}
+    <style>
+      body { margin: 0; background: #f7f5f0; color: #171717; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.58; }
+      main { width: min(860px, calc(100% - 32px)); margin: 0 auto; padding: 48px 0 64px; }
+      header { display: flex; align-items: center; gap: 16px; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid #dfddd7; }
+      img.app-icon { width: 72px; height: 72px; border-radius: 18px; box-shadow: 0 10px 26px rgba(0, 0, 0, 0.16); }
+      h1 { margin: 0; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.05; }
+      h2 { margin: 32px 0 10px; font-size: 1.35rem; line-height: 1.25; }
+      p { margin: 0 0 16px; }
+      article { background: #fff; border: 1px solid #dfddd7; border-radius: 8px; padding: clamp(24px, 4vw, 40px); }
+      .updated { margin: 8px 0 0; color: #5f6368; font-weight: 600; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        {% if page.app_icon %}
+          <img class="app-icon" src="{{ page.app_icon }}" alt="{{ page.app_name }} app icon" />
+        {% endif %}
+        <div>
+          <h1>{{ page.title }}</h1>
+          {% if page.updated %}
+            <p class="updated">Last updated: {{ page.updated }}</p>
+          {% endif %}
+        </div>
+      </header>
+      <article>{{ content }}</article>
+    </main>
+  </body>
+</html>
