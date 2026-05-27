@@ -4,7 +4,7 @@ title: Creator Pro Privacy Policy
 app_name: Creator Pro
 app_icon: ./app-icon.png
 favicon: ./favicon.png
-updated: 4/26/2025
+updated: 5/27/2026
 ---
 
 Thank you for using Creator Pro (the "App"). Creator Pro is owned and operated by Stimulating AI Inc. ("we," "us," or "our"). We respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you download, install, access, or use Creator Pro, and our practices for collecting, using, maintaining, protecting, and disclosing that information. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not download, install, access, or use Creator Pro. By downloading, installing, accessing, or using Creator Pro, you agree to this policy. This policy may change from time to time. Your continued use of Creator Pro after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
