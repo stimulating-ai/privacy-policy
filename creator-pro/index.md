@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creator Pro Privacy Policy
+title: Creator Pro
 app_name: Creator Pro
 app_icon: ./app-icon.png
 favicon: ./app-icon.png
